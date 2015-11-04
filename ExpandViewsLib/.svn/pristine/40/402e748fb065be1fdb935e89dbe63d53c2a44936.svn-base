@@ -1,0 +1,7 @@
+package com.expand.library.internal;
+
+public class ModelPosition {
+
+	public static  int parentPosition;
+	public static int childPosition;
+}
